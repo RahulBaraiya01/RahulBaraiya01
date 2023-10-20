@@ -31,7 +31,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,expressjs" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,expressjs,redis,pug" />
   </a>
 </p>
 
