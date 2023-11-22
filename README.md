@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning about **Back End Technologies**    
 
-- 👨‍💻 All of my projects are available at [Rahul's workspace](https://github.com/HenryParadox)
+- 👨‍💻 All of my projects are available at [Rahul's workspace](https://github.com/RahulBaraiya01?tab=repositories)
 
-- 💬 Ask me about **JavaScript, NodeJS Express JS, Redis, Firebase and MongoDB**
+- 💬 Ask me about **JavaScript, NodeJS, Express JS, Redis, Firebase and MongoDB**
 
 - 📫 How to reach me **rahul.bytesved@gmail.com**
 
